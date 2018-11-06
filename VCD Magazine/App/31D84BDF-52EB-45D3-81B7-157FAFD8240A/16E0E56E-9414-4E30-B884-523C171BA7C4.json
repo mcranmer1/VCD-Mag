@@ -1,7 +1,7 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "C2694AB8-63EA-4D83-849E-B9E310264BCF",
+  "do_objectID": "16E0E56E-9414-4E30-B884-523C171BA7C4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,32 +14,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 80,
+    "width": 320,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-  ],
-  "name": "Page 1",
+  "name": "Nav Bar",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -48,10 +42,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "7852D0E8-AA71-4A16-9594-9E06FAE761D1",
+  "verticalSpacing": 0
 }
