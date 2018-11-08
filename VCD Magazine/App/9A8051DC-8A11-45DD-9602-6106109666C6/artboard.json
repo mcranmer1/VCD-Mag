@@ -28,9 +28,9 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "gridSize": 16,
+    "gridSize": 8,
     "isEnabled": true,
-    "thickGridTimes": 5
+    "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +55,21 @@
       "id": "EBE31FF2-ED5A-4651-94AB-56DDA3511CC9"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 36.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 4,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
   "name": "Splash Screen",
   "nameIsFixed": true,
   "presetDictionary": {

@@ -31,12 +31,12 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "gridSize": 16,
+    "gridSize": 8,
     "isEnabled": true,
-    "thickGridTimes": 5
+    "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -71,6 +71,21 @@
       "id": "28F2F3FD-BBFB-4A40-8E5B-938F9D341C17"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 36.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 4,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
   "name": "Homescreen",
   "nameIsFixed": true,
   "presetDictionary": {
