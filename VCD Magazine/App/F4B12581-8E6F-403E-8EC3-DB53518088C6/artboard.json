@@ -4,15 +4,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "C39577BB-A73C-46C1-9E4A-A00E066D91EA",
+    "do_objectID": "F54D4A58-946F-4962-8E56-C18D152EF893",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "31D84BDF-52EB-45D3-81B7-157FAFD8240A",
+  "do_objectID": "F4B12581-8E6F-403E-8EC3-DB53518088C6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "669CDAA2-57DF-48F3-A66F-32790CD877CC",
+    "do_objectID": "72F05828-1579-4637-BC48-CC65DA7414F9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,24 +23,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C3B93318-9EE4-447D-B333-EF954A72C101",
+    "do_objectID": "B7B97ACD-705D-4597-873E-C02715516D1A",
     "height": 1047,
     "width": 320,
-    "x": 518,
+    "x": 888,
     "y": -234
   },
   "grid": {
     "_class": "simpleGrid",
+    "do_objectID": "BB45E306-7241-4D7C-9B8F-94E0977B8980",
     "gridSize": 8,
     "isEnabled": true,
     "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "ECB9F95C-4DD4-4297-960F-54FF8A3547F2",
+    "do_objectID": "3E96CAF6-465F-487F-925C-1320203B1CA4",
     "guides": [
     ]
   },
@@ -56,24 +57,21 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "16E0E56E-9414-4E30-B884-523C171BA7C4"
+      "id": "885406E3-3856-4630-A1AF-016EAB1C042E"
     },
     {
       "class": "text",
-      "id": "FB0B6C51-AB1D-4F03-B2F9-E931EC239657"
+      "id": "A3246D6A-8CE8-498E-9E93-248C901D2929"
     },
     {
       "class": "text",
-      "id": "B68F208F-5067-441B-8E30-6FC6CECF1D62"
-    },
-    {
-      "class": "group",
-      "id": "28F2F3FD-BBFB-4A40-8E5B-938F9D341C17"
+      "id": "D7886730-17FC-47AE-BF95-E2D99F95648E"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 36.5,
+    "do_objectID": "7B82B3C0-AE7B-45B9-B45A-B9CA77170A82",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -86,7 +84,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "Homescreen A",
+  "name": "Homescreen B",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -102,7 +100,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "C4A31CA4-6BD6-4660-8367-D439FC2B6346",
+    "do_objectID": "29A32E74-C789-4171-B37B-E98F5B8B24A8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -111,7 +109,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "E1E2ED95-0D8E-423D-BA27-851CCC2EDCDD",
+    "do_objectID": "5A7F5298-E42C-42AD-93FC-0071F81C7273",
     "guides": [
     ]
   }
