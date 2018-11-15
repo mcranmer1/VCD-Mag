@@ -1,7 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": -1,
-  "do_objectID": "C2694AB8-63EA-4D83-849E-B9E310264BCF",
+  "do_objectID": "4762CFC0-BE54-4F74-9E17-1F92B580C2FE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -382,
     "guides": [
     ]
   },
@@ -36,22 +36,18 @@
   "layers": [
     {
       "class": "symbolMaster",
-      "id": "70C60770-4D1E-4F7D-AD04-84143A146E66"
+      "id": "17386A55-2516-4405-9CFC-A124DD654D56"
     },
     {
       "class": "symbolMaster",
-      "id": "13B9EC89-85DD-443F-9DE7-FF069C64694A"
+      "id": "4465737C-BF2F-4EE1-AC8D-A562F2C37E43"
     },
     {
       "class": "symbolMaster",
-      "id": "E2D6F506-E24E-4BDB-A3C1-8F0919FEFC02"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "AA7E75F5-130B-4C76-9083-CF192775373B"
+      "id": "996FCFA9-57A5-4DB7-A8B0-E052188E8A4C"
     }
   ],
-  "name": "Logos",
+  "name": "Icons",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -66,7 +62,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -306,
     "guides": [
     ]
   }

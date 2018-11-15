@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "885406E3-3856-4630-A1AF-016EAB1C042E",
+  "do_objectID": "53B3A8AE-D68F-47D4-A9FE-7EAD1B86B29E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "022A5566-0B20-4061-9F76-191E1F1E7933",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3F784E7F-D72F-4D6D-B4F5-8BBFFF8F741F",
-    "height": 80,
-    "width": 320,
-    "x": 0,
-    "y": 0
+    "height": 100,
+    "width": 100,
+    "x": -336,
+    "y": -104
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -28,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Nav Bar",
+  "name": "Primary",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,12 +37,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "31536C6C-EA8D-4C27-A550-F2B87D1B9622",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7852D0E8-AA71-4A16-9594-9E06FAE761D1",
+  "symbolID": "0FEE0440-C04E-4B39-BAF9-7808DAE3A5CC",
   "verticalSpacing": 0
 }

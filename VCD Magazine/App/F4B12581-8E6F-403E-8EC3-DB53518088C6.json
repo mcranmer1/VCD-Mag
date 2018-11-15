@@ -33,11 +33,11 @@
     "_class": "simpleGrid",
     "do_objectID": "BB45E306-7241-4D7C-9B8F-94E0977B8980",
     "gridSize": 8,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,18 +55,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "885406E3-3856-4630-A1AF-016EAB1C042E"
-    },
-    {
-      "class": "text",
-      "id": "A3246D6A-8CE8-498E-9E93-248C901D2929"
-    },
-    {
-      "class": "text",
-      "id": "D7886730-17FC-47AE-BF95-E2D99F95648E"
-    }
   ],
   "layout": {
     "_class": "layoutGrid",
@@ -79,12 +67,12 @@
     "gutterWidth": 4,
     "guttersOutside": false,
     "horizontalOffset": 0,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 8,
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "Homescreen B",
+  "name": "Photo",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

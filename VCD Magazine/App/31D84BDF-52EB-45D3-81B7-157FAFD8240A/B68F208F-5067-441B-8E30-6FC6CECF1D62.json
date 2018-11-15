@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ProximaNova-Semibold",
+              "name": "AvenirNext-Regular",
               "size": 20
             }
           },
@@ -53,9 +53,9 @@
     "height": 22,
     "width": 106,
     "x": 198,
-    "y": 26
+    "y": 25
   },
-  "glyphBounds": "{{14, 4}, {92, 15}}",
+  "glyphBounds": "{{14, 5}, {92, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ProximaNova-Semibold",
+            "name": "AvenirNext-Regular",
             "size": 20
           }
         },

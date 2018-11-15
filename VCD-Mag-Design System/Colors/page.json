@@ -1,7 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": -1,
-  "do_objectID": "C2694AB8-63EA-4D83-849E-B9E310264BCF",
+  "do_objectID": "F3FAA005-C231-4A78-8C49-E025E9937373",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -382,
     "guides": [
     ]
   },
@@ -35,23 +35,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "70C60770-4D1E-4F7D-AD04-84143A146E66"
+      "class": "symbolInstance",
+      "id": "53B3A8AE-D68F-47D4-A9FE-7EAD1B86B29E"
     },
     {
-      "class": "symbolMaster",
-      "id": "13B9EC89-85DD-443F-9DE7-FF069C64694A"
+      "class": "symbolInstance",
+      "id": "324605F1-2548-440B-8ACC-BB09752A445A"
     },
     {
-      "class": "symbolMaster",
-      "id": "E2D6F506-E24E-4BDB-A3C1-8F0919FEFC02"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "AA7E75F5-130B-4C76-9083-CF192775373B"
+      "class": "symbolInstance",
+      "id": "014A57E4-C055-4E09-B52B-3B614E762B41"
     }
   ],
-  "name": "Logos",
+  "name": "Colors",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -66,7 +62,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -306,
     "guides": [
     ]
   }

@@ -1,7 +1,15 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
-  "do_objectID": "C2694AB8-63EA-4D83-849E-B9E310264BCF",
+  "changeIdentifier": 269,
+  "do_objectID": "996FCFA9-57A5-4DB7-A8B0-E052188E8A4C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +22,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 24,
+    "width": 24,
+    "x": -153,
+    "y": -28
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -26,37 +35,29 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "70C60770-4D1E-4F7D-AD04-84143A146E66"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "13B9EC89-85DD-443F-9DE7-FF069C64694A"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "E2D6F506-E24E-4BDB-A3C1-8F0919FEFC02"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "AA7E75F5-130B-4C76-9083-CF192775373B"
+      "class": "group",
+      "id": "CE3EF014-DB7E-46DC-AC95-AB2F573BC6D2"
     }
   ],
-  "name": "Logos",
-  "nameIsFixed": true,
+  "name": "Clouds",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -64,6 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "512C9A40-6D7C-4477-BCB2-8BF6357AAC1D",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
